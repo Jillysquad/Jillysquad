@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jillysquad
+- 👀 I’m interested in java dev
+- 🌱 I’m currently learning gradle
+- 💞️ I’m looking to collaborate on meteor
+- 📫 How to reach me , open a pull request :D
